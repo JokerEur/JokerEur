@@ -39,8 +39,12 @@
 - ⚡ Fun fact **DO NOT TOUCH THE DOG, DON'T ASK QUESTIONS**
 
 ###
-<h3 align="left">Languages and Tools:</h3>
+
 <br clear="both">
+
+
+<h3 align="Center">Languages and Tools</h3>
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
