@@ -30,7 +30,10 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on [desensitised systems](https://s3-solutions.org/)<br><br>- 🌱 I’m currently learning **boost, SDL2 , ImGui**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/JokerEur](https://github.com/JokerEur)<br><br>- ⚡ Fun fact **DO NOT TOUCH THE DOG, DON'T ASK QUESTIONS**</p>
+- 🔭 I’m currently working on [desensitised systems](https://s3-solutions.org/) 
+- 🌱 I’m currently learning **boost, SDL2 , ImGui**
+- 👨‍💻 All of my projects are available at [https://github.com/JokerEur](https://github.com/JokerEur)
+- ⚡ Fun fact **DO NOT TOUCH THE DOG, DON'T ASK QUESTIONS**
 
 ###
 
