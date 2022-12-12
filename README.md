@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ivan and I'm a 21 y.o backend and microcontoroller engineer, from Moscow</h2>
+<h2 align="Center">Hi 👋! My name is Ivan and I'm a 21 y.o backend and microcontoroller engineer,from Moscow</h2>
 
 ###
 
