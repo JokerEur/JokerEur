@@ -26,7 +26,7 @@
 
 ###
 
-<img align="right" height="150" src="[![2022-12-12-6-25-21-PM.jpg](https://i.postimg.cc/MGjctj29/2022-12-12-6-25-21-PM.jpg)](https://postimg.cc/KKxv8jYT)"  />
+<img align="right" height="150" src="https://i.postimg.cc/28RfBb2z/2022-12-12-6-31-05-PM.jpg"  />
 
 ###
 
