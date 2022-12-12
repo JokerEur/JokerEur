@@ -39,7 +39,7 @@
 - ⚡ Fun fact **DO NOT TOUCH THE DOG, DON'T ASK QUESTIONS**
 
 ###
-
+<h3 align="left">Languages and Tools:</h3>
 <br clear="both">
 
 <div align="center">
