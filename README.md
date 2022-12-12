@@ -42,9 +42,9 @@
 
 <br clear="both">
 
-
-<h3 align="Center">Languages and Tools</h3>
 ---
+<h3 align="Center">Languages and Tools</h3>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
@@ -57,6 +57,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" width="42" alt="raspberrypi logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" width="42" alt="vim logo"  />
 </div>
+
+---
 
 ###
 
