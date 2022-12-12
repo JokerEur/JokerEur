@@ -31,8 +31,11 @@
 ###
 
 - 🔭 I’m currently working on [desensitised systems](https://s3-solutions.org/) 
+
 - 🌱 I’m currently learning **boost, SDL2 , ImGui**
+
 - 👨‍💻 All of my projects are available at [https://github.com/JokerEur](https://github.com/JokerEur)
+
 - ⚡ Fun fact **DO NOT TOUCH THE DOG, DON'T ASK QUESTIONS**
 
 ###
