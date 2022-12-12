@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ivan and I'm a 21 y.o backend and microcontoroller engineer, from Moscow</h2>
 
----
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&username=JokerE" height="150" alt="stats graph"  />
@@ -26,9 +26,8 @@
 
 ---
 
-<img align="right" height="150" src="https://i.postimg.cc/28RfBb2z/2022-12-12-6-31-05-PM.jpg"  />
+<img align="center" height="150" src="https://i.postimg.cc/28RfBb2z/2022-12-12-6-31-05-PM.jpg"  />
 
----
 
 - 🔭 I’m currently working on [desensitised systems](https://s3-solutions.org/) 
 
