@@ -26,7 +26,7 @@
 
 ###
 
-<img align="Right" height="150" margin-right="15" src="https://i.postimg.cc/28RfBb2z/2022-12-12-6-31-05-PM.jpg"  />
+<img align="Right" height="150" margin-right="150" src="https://i.postimg.cc/28RfBb2z/2022-12-12-6-31-05-PM.jpg"  />
 
 ###
 
